@@ -1,7 +1,8 @@
+streamlit==0.82.0
+pycaret==2.3.1
+pycaret-nightly==2.3.1.dev1623631231
 python-daemon==2.3.0
 python-editor==1.0.4
 python-nvd3==0.15.0
 python-slugify==4.0.1
 python3-openid==3.2.0
-dnspython==2.1.0
-streamlit==0.82.0
